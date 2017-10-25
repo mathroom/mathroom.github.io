@@ -20,6 +20,9 @@
         </el-form-item>
       </el-form>
       <el-card class="box-card">
+        <div class="blue">
+          w={{amazon.w}},l={{amazon.l}},d={{amazon.d}},h={{amazon.h}},t={{amazon.t}}
+        </div>
         <div class="red">
           产品尺寸分段-P(n):{{p}}
         </div>
